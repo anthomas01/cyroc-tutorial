@@ -1,0 +1,9 @@
+Hi my name is Kyle Warrington
+
+I am going into my third year at ISU as a Mechanical Engineer. 
+
+My strongest language is probably Matlab as of right now, but it has been awhile since I've 
+done much with it. I have used a little Python and C++ in highschool. 
+
+I'm interested in learning CFD because it is one of those larger areas in engineering that I don't know anything
+about and I really enjoy learning new ways to figure out a problem. 
