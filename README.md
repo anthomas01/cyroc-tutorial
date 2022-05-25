@@ -8,4 +8,4 @@
 7. Commit your changes and push to your fork
 8. Merge your netid branch to your main branch, but do not delete the netid branch
 9. Fetch upstream to get the latest changes to main repository
-10. Request to merge your fork to main repository
+10. Make a pull request to merge your fork to main repository
