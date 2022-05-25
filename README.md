@@ -11,7 +11,7 @@
     - `git remote add upstream https://github.com/anthomas/cyroc-tutorial.git`, now we will call the original repo "upstream"
     - Once done use `git remote` to verify the upstream is added
     - You should see output like this:  `upstream origin`
-11. Commit your changes and push to your fork
+11. Commit your changes and push to your branch
     - `git add .`
     - `git commit -m "your commit message"`
     - `git pull upstream origin`
