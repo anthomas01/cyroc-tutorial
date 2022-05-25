@@ -14,8 +14,10 @@
 11. Commit your changes and push to your fork
     - `git add .`
     - `git commit -m "your commit message"`
+    - `git pull upstream origin`
     - `git push`
 12. Merge your netid branch to your main branch, but do not delete the netid branch
-
 12. Fetch upstream to get the latest changes to main repository
 13. Make a pull request to merge your fork to main repository
+
+Basic Github command list is available here: [GitHub Command List](https://github.com/anthomas01/notes/blob/master/README.md#basic-commands)
