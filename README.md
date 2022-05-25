@@ -7,4 +7,5 @@
 6. In that text file, tell a little about yourself. Name, year, major, strongest programming language, what is your specific interest in analysis/optimization, and maybe a fun fact
 7. Commit your changes and push to your fork
 8. Merge your netid branch to your main branch, but do not delete the netid branch
-9. 
+9. Fetch upstream to get the latest changes to main repository
+10. Request to merge your fork to main repository
