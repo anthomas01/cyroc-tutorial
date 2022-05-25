@@ -14,7 +14,7 @@
 11. Commit your changes and push to your branch
     - `git add .`
     - `git commit -m "your commit message"`
-    - `git pull upstream origin`
+    - `git pull upstream main`
     - `git push`
 12. Merge your netid branch to your main branch, but do not delete the netid branch
 12. Fetch upstream to get the latest changes to main repository
