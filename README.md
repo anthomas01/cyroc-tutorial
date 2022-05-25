@@ -8,7 +8,7 @@
 6. Once the branch is entered, create a text file named as your **firstname_lastname** in the cloned folder
 8. In that text file, tell a little about yourself. Name, year, major, strongest programming language, what is your specific interest in analysis/optimization, and maybe a fun fact
 9. Add the original repo as the upstream 
-    - `git remote add upstream https://github.com/anthomas/cyroc-tutorial.git`, now we will call the original repo "upstream"
+    - `git remote add upstream https://github.com/anthomas01/cyroc-tutorial.git`, now we will call the original repo "upstream"
     - Once done use `git remote` to verify the upstream is added
     - You should see output like this:  `upstream origin`
 11. Commit your changes and push to your branch
