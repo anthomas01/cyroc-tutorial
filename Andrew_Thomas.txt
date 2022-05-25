@@ -1,0 +1,10 @@
+Hello my name is Andrew Thomas
+
+I am going into my fourth and final year at ISU where I have been majoring in Aerospace Engineering and Physics
+
+My strongest programming language is probably python, but I am very comfortable with matlab and c++
+
+I have been doing research and work with cfd analysis and aerodynamic shape optimization for the past 2-ish years under Dr. Ping He
+I love the subject and hope to make a career out of it. I have an internship at Textron this summer for exactly this.
+
+A fun fact about me is that I built my own cnc router
